@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/w3eleft/go-ethereum/log"
 )
 
 /*

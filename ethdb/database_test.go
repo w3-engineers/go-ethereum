@@ -25,7 +25,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/ethdb"
+	"github.com/w3eleft/go-ethereum/ethdb"
 )
 
 func newTestLDB() (*ethdb.LDBDatabase, func()) {

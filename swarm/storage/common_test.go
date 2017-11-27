@@ -24,7 +24,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/w3eleft/go-ethereum/log"
 )
 
 type brokenLimitedReader struct {
